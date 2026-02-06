@@ -1,4 +1,23 @@
+# Webstorm
 .idea/
 .idea/*
 /**/.idea/
 /**/.idea/*
+
+# Next.js
+/**/node_modules/
+/**/.next/
+/**/out/
+/**/build/
+/**/.env*.local
+/**/.env
+/**/next-env.d.ts
+/**/package-lock.json
+
+# Nest.js
+/**/test/
+/**/benchmarks/
+/**/coverage/
+/**/.history/
+/**/.history
+/**/.DS_Store
